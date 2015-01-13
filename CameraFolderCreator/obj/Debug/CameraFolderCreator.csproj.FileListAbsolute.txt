@@ -1,0 +1,8 @@
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\bin\Debug\CameraFolderCreator.exe.config
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\bin\Debug\CameraFolderCreator.exe
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\bin\Debug\CameraFolderCreator.pdb
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\obj\Debug\CameraFolderCreator.Form1.resources
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\obj\Debug\CameraFolderCreator.Properties.Resources.resources
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\obj\Debug\CameraFolderCreator.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\obj\Debug\CameraFolderCreator.exe
+C:\Users\Tim\Desktop\CameraFolderCreator\CameraFolderCreator\CameraFolderCreator\obj\Debug\CameraFolderCreator.pdb
